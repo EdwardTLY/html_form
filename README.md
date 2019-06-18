@@ -7,4 +7,4 @@ Using [Nodejs](https://nodejs.org/en/) and [http-server](https://www.npmjs.com/p
 npm install http-server -g
 http-server
 ```
-Open browser to [localhost:8080/form] (localhost:8080/form)
+Open browser to [localhost:8080/form](http://localhost:8080/form)
